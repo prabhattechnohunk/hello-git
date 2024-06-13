@@ -1,5 +1,5 @@
 
-public class HelloWorls {
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		
@@ -17,6 +17,8 @@ public class HelloWorls {
 		
 		//this line was added on 11 june
 		//this line was added on 11 june
+		
+		System.out.println("this work done in Jun,13 2024");
 		
 		
 
