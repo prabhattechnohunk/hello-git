@@ -15,9 +15,6 @@ public class HelloWorld {
 		System.out.println("i just create the commit Prabhat from Rajendre Side");
 		
 		
-		//this line was added on 11 june
-		//this line was added on 11 june
-		
 		System.out.println("this work done in Jun,13 2024");
 		
 		
